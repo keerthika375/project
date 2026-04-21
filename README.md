@@ -1,6 +1,16 @@
+downolad the zip file and extract it
 For whoever downloads it, the steps are simple:
 Install Node.js and MongoDB
-cd backend && npm install → node seed.js → node server.js
-cd frontend && npm install → npm run dev
+go to visual studio
+open the folder(the extracted one)
+open a new terminal
+type cd car_suggestor_final
+type cd backend
+type npm install →type node seed.js →type  node server.js
+create another terminal
+type cd car_suggestor_final
+type cd frontend 
+type npm install 
+type npm run dev
 Open http://localhost:5173
-i did this commands bu t it says 
+open the link
